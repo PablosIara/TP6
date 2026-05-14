@@ -1,0 +1,116 @@
+/*INICIO*/
+body {
+  font-family: papyrus;
+  background: #9dd8da;
+  margin: 0;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+header{
+  display: flex;
+}
+
+.logo{
+  width: 150px;
+  height: 150px;
+  margin-left: 0.2%;
+  margin-top: 1%;
+}
+.titulo{
+  margin-left: 30%;
+}
+
+.link{
+  margin-left: 20%
+}
+
+.contenedor {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.izquierda {
+  color: white;
+  padding: 40px;
+  width: 320px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+}
+.derecha{
+  color: white;
+  padding: 40px;
+  width: 320px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+}
+
+.icono {
+  height: 250px;
+  width: 250px;
+}
+.tarjeta{
+  background-color: rgb(34, 46, 155);
+  margin: 20px;
+  width: 350px;
+  height: 410px;
+}
+
+
+
+/*ACERCA DE...*/
+.fundador {
+  color: white;
+  padding: 40px;
+  width: 320px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+}
+.protectora{
+  color: white;
+  padding: 40px;
+  width: 320px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+}
+
+.iconoiara{
+  height: 300px;
+  width: 250px;
+}
+.iconooficina{
+  height: 300px;
+  width: 300px;
+}
+.fundador1{
+  background-color: rgb(34, 46, 155);
+  margin: 20px;
+  width: 350px;
+  height: 180px;
+}
+.protectora1{
+  background-color: rgb(34, 46, 155);
+  margin: 20px;
+  width: 350px;
+  height: 190px;
+}
+
+
+
+/*CONTACTO*/
+.ctarjeta{
+  color: rgb(214, 212, 212);
+  background-color: rgb(30, 36, 87);
+  align-items: center;
+  margin: 20px;
+  width: 350px;
+  height: 160px;
+}
+
+#cuadrado{background-color: rgb(135, 206, 182);}
